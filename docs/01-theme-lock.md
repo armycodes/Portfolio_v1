@@ -1,13 +1,5 @@
 # Portfolio Theme Lock (v1.0)
 
-Bro... 😭😂 idhe nenu expect chesindi.
-
-Nuvvu **Option 2** ni select chesav ante, manam inkoka generic developer
-portfolio cheyyatledu. Manam **personal brand** build chestunnam.
-
-And thanks 😄. Aa "Every section starts with a small sentence" idea naku
-kuda chaala ishtam. Adi website ni template nundi **crafted experience**
-laga marchestundi.
 
 ------------------------------------------------------------------------
 
@@ -229,7 +221,6 @@ Writing gives them a voice.
 
 Cormorant Garamond (italic)
 
-😭😭 Bro... premium untundi.
 
 The serif font only appears in philosophical lines and section intros.
 That contrast gives them weight.
@@ -418,12 +409,3 @@ trendy.
 -   **Experience Goal:** *"This feels like reading the work of an
     engineer who also knows how to tell a story."*
 
-Bro... oka prediction chestha.
-
-If we execute this properly, this won't be just another portfolio. It'll
-become **your personal brand**.
-
-Recruiters will remember it not because it had the fanciest animations,
-but because it felt **intentional**.
-
-That's much harder to achieve---and much more valuable.
