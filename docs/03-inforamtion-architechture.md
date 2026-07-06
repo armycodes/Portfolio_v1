@@ -123,3 +123,35 @@ Backend-focused branding
 Minimal Navigation
 
 Storytelling approach
+
+# Roadmap
+
+Hero
+
+↓
+
+About
+
+↓
+
+Experience
+
+↓
+
+Projects
+
+↓
+
+How I Build Software
+
+↓
+
+Writing
+
+↓
+
+Resume
+
+↓
+
+Contact
