@@ -1,0 +1,42 @@
+# Product Requirements Document
+
+Version: 1.0
+
+Status: Draft
+
+Author: Siri Mahalaxmi Vemula
+
+Reviewer: Tech Lead
+
+Created: 2026-07-07
+
+Last Updated: 2026-07-07
+Portfolio
+
+│
+
+├── Landing Page
+
+│      ├── Hero (Curiosity, creating brand identity)
+
+│      ├── About (who siri is actually is.. what she cand do, what she has done, what she is passionate about)
+
+│      ├── Experience(not just bluff but proof of work, what she has done, what she is capable of doing)
+
+│      ├── Projects(what she has built, what she is capable of building, what she is passionate about building)
+
+│      ├── Engineering Principles(what she believes in, what she is passionate about, what she is capable of doing)
+
+│      ├── Writing(not only swe but she also a multi talented person, she is a writer, she is a thinker, she is a problem solver, she is a designer, she is a creator)
+
+│      ├── Resume
+
+│      └── Contact
+
+│
+
+├── Project Details Page
+
+├── Resume Page
+
+└── 404
